@@ -35,7 +35,7 @@
 ## System Requirements
 
 - [git][git] v2.13 or greater
-- [NodeJS][node] `12 || 14 || 15 || 16 || 17`
+- [NodeJS][node] `12 || 14 || 15 || 16`
 - [npm][npm] v6 or greater
 
 All of these must be available in your `PATH`. To verify things are set up
@@ -229,6 +229,9 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/Insidiae"><img src="https://avatars.githubusercontent.com/u/28495550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kobe Ruado</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=Insidiae" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/prasanthlouis/"><img src="https://avatars.githubusercontent.com/u/8705429?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prasanth Louis</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=prasanthlouis" title="Documentation">📖</a></td>
     <td align="center"><a href="https://stackoverflow.com/users/5411817/sherylhohman?tab=topactivity"><img src="https://avatars.githubusercontent.com/u/8204778?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sheryl Hohman</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=SherylHohman" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.victoriavasys.com/"><img src="https://avatars.githubusercontent.com/u/10079657?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Victoria Vasys</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=VictoriaVasys" title="Documentation">📖</a></td>
   </tr>
 </table>
 
